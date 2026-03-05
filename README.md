@@ -22,3 +22,10 @@ Ocran Bransford Charles: Builds the Python interface to take user inputs and sho
 Dennis Kwaku Dapaah Adomako: Writes the project report and makes diagrams explaining how the system works.
 
 Aaron Ababio: Coordinates the group, checks everyone’s work, tests the system, and helps prepare the presentation.
+
+
+| Component             | Directory        | Content Description                           | AI Role                |
+|-----------------------|----------------|-----------------------------------------------|-----------------------|
+| Knowledge Base (KB)   | /knowledge_base | Prolog file containing logical facts & rules | Memory / Intelligence |
+| Inference Interface   | /interface      | Python script to query Prolog engine         | User Interaction      |
+| Documentation         | /docs           | Project report & diagrams                     | Knowledge Acquisition |
